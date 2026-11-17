@@ -17,9 +17,9 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 ### Map ###
 
-- [ ] 1.- Dado el array **numbers** cuyo valor sea [4, 5, 6, 7, 8, 9, 10], crea una función **elevados** que sea el resultado de elevar cada número a si mismo. 
+- [ X] 1.- Dado el array **numbers** cuyo valor sea [4, 5, 6, 7, 8, 9, 10], crea una función **elevados** que sea el resultado de elevar cada número a si mismo. 
 
-- [ ] 2.- Dado el array **foodList** con valor ['Pizza', 'Ramen', 'Paella', 'Entrecot'], generar un segundo array que consiga generar de salida el resultado esperado.
+- [X ] 2.- Dado el array **foodList** con valor ['Pizza', 'Ramen', 'Paella', 'Entrecot'], generar un segundo array que consiga generar de salida el resultado esperado.
 ```
 [
     'Como soy de Italia, amo comer Pizza',
@@ -29,7 +29,7 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 ]
 ```
 
-- [ ] 3.- Dado el  array **staff**, crear un segundo array que forme frases como en el ejemplo accediendo a las propiedades del objeto proporcionado:
+- [ X] 3.- Dado el  array **staff**, crear un segundo array que forme frases como en el ejemplo accediendo a las propiedades del objeto proporcionado:
 ```
 const staff = [
   {
@@ -68,7 +68,7 @@ const staff = [
 
 ### Filter ###
 
-- [ ] 4.- Crea un segundo array result4 a partir del array numbers2 que devuelva solo los impares
+- [ X] 4.- Crea un segundo array result4 a partir del array numbers2 que devuelva solo los impares
 
 ```
 const numbers2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
@@ -101,7 +101,7 @@ const foodList2 =[
 ```
 
 
-- [ ] 6.- Dado el array **inventory**, devolver un array con los nombres de los elementos que valgan más de 300 euros.
+- [x ] 6.- Dado el array **inventory**, devolver un array con los nombres de los elementos que valgan más de 300 euros.
 
 ```
 
@@ -134,9 +134,9 @@ const inventory = [
 
 ### Reduce ###
 
-- [ ] 7.- Dado el siguiente array **numeros** [39, 2, 4, 25, 62], obten la multiplicación de todos los elementos del array
+- [x ] 7.- Dado el siguiente array **numeros** [39, 2, 4, 25, 62], obten la multiplicación de todos los elementos del array
 
-- [ ] 8.- Concatena todos los elementos del array con reduce para que devuelva una sola frase
+- [ x] 8.- Concatena todos los elementos del array con reduce para que devuelva una sola frase
 ```
 const sentenceElements = [
   'Me',
@@ -169,7 +169,7 @@ const books = [
     author: 'Cervantes',
     price: 14,
     category: 'novel'
-  },
+  },const
   {
     name: 'Juego de tronos',
     author: 'George R. Martin',
